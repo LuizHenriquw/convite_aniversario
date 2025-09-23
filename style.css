@@ -1,0 +1,82 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+.baloo-2- {
+  font-family: "Baloo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+    width: 500px;
+    margin: auto
+    
+}
+
+header{
+    background-color: #EBD4CA;
+
+    display: block;
+    text-align: center;
+    height: 150px;
+}
+header>h1{
+    padding-top: 50px;
+    color:#E9153E ;
+    font-size: 80px;
+    font-family: 'Luckiest Guy', cursive;
+    -webkit-text-stroke: 3px black;
+
+}
+main{
+    background-color: #F3E73B;
+    height: 550px;
+    display: block;
+    text-align: center;
+    padding: 0px 50px 50px 50px; 
+    font-family: 'Baloo 2', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+    line-height: 1.2em;
+    
+}
+.verde{
+  background-color:#00BF62 ;
+  width: 220px;
+  height: 60px;
+  font-size: 50px;
+  font-weight: 500;
+  display: inline-block;
+  padding: 17px;
+  translate: 0px -13px;
+  transform: rotate(-9deg);
+  transform-origin: center;
+  
+}
+
+.texto{
+    margin-top: 20px;
+    
+}
+.vermelho{
+    display: inline-block;
+    color: red;
+    font-weight: bold;
+    margin:20px;
+}
+.imagem-melancia {
+  text-align: center;
+   
+}
