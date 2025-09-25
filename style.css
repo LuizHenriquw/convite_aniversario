@@ -42,7 +42,7 @@ header>h1{
 }
 main{
     background-color: #F3E73B;
-    height: 550px;
+    height: 750px;
     display: block;
     text-align: center;
     padding: 0px 50px 50px 50px; 
@@ -78,5 +78,7 @@ main{
 }
 .imagem-melancia {
   text-align: center;
+  display: inline-block;
+  background-color: #ffffff
    
 }
