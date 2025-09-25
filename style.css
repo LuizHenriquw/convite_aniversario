@@ -42,7 +42,7 @@ header>h1{
 }
 main{
     background-color: #F3E73B;
-    height: 750px;
+    max-height: 750px;
     display: block;
     text-align: center;
     padding: 0px 50px 50px 50px; 
@@ -67,7 +67,7 @@ main{
 }
 
 .texto{
-    margin-top: 20px;
+    margin-top: 10px;
     
 }
 .vermelho{
@@ -76,6 +76,14 @@ main{
     font-weight: bold;
     margin:20px;
 }
+
+.endereço{
+    font-size: 10px;
+    margin-top: 20px;
+    line-height: 1.5em;
+}
+
+
 .imagem-melancia {
   text-align: center;
   display: inline-block;
